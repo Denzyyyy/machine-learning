@@ -3,3 +3,10 @@ __pycache__/
 *.sqlite3 
 .env 
 .vscode/ 
+
+# TensorFlow logs & checkpoints
+model/train_log/
+model/*.ckpt*
+model/*.pbtxt
+
+
