@@ -12,3 +12,6 @@ model/*.pbtxt
 
 2015-*.db 
 -e "__pycache__/\n*.pyc\n.vscode/\nmodel/train_log/\nmodel/*.ckpt*\nmodel/*.pbtxt\n" 
+
+nmt-chatbot/
+data/
